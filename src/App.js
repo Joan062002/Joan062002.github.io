@@ -4,7 +4,7 @@ import profilePhoto from './@me.jpg';
 function App() {
   return (
    <div class="app">
-    <img class="profile" src={profilePhoto}></img>
+    <img class="profile" src={profilePhoto} alt='art'></img>
     <h1>Joana's website</h1>
     <p>
       For me creativity is not a talent it is my passion
